@@ -2,7 +2,7 @@
 title: Accueil
 banner_image: "/uploads/2020/06/29/banner-fb.jpg"
 layout: landing-page
-heading: CDchauffage60 -  Entretien et dépannage de chaudière gaz - Oise (60)
+heading: ''
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -21,13 +21,10 @@ services:
   description: ''
   icon: ''
 sub_heading: ''
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Entretien et dépannage de chaudière gaz - Oise (60)
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Nos services
+  href: "/services"
 show_news: false
 show_staff: false
 menu:
